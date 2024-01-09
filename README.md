@@ -10,3 +10,4 @@
 akshu1354/akshu1354 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://akshara-nair.dmlearning.in/revolutionize-fitness-unlocking-the-potential-of-generative-ai/2024/01/07/
